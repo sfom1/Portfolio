@@ -1,0 +1,58 @@
+
+table.table1 {
+    border: 1px solid;
+    width: 20%;
+    border: blue 1px solid;
+    position: absolute;
+    top: 180px;
+    left: 0px;    
+  }
+  table.table2 {
+    border: 1px solid;
+    width: 20%;
+    border: blue 1px solid;
+    position: absolute;
+    top: 180px;
+    left: 380px;   
+    
+  }
+  table.table3 {
+    border: 1px solid;
+    width: 20%;
+    border: blue 1px solid;
+    position: absolute;
+    top: 180px;
+    left: 760px;   
+    
+    
+  }
+  table.table4 {
+    border: 1px solid;
+    width: 20%;
+    border: blue 1px solid;
+    position: absolute;
+    top: 284px;
+    left: 0px;   
+    
+    
+  }
+  table.table5 {
+    border: 1px solid;
+    width: 20%;
+    border: blue 1px solid;
+    position: absolute;
+    top: 284px;
+    left: 380px;   
+    
+    
+  }
+  table.table6 {
+    border: 1px solid;
+    width: 20%;
+    border: blue 1px solid;
+    position: absolute;
+    top: 284px;
+    left: 760px;   
+    
+    
+  }
