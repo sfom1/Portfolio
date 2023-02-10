@@ -1,139 +1,144 @@
 
 table.table1 {
     border: 1px solid;
-    width: 15%;
+    width: 13%;
     border: blue 1px solid;
-    position: absolute;
+    display: inline-block;
+    table-layout: fixed;
+    width: 14%; 
     top: 180px;
-    left: 0px;    
-  }
-  table.table2 {
-    border: 1px solid;
-    width: 15%;
-    border: blue 1px solid;
-    position: absolute;
-    top: 180px;
-    left: 290px;   
-    
-  }
-  table.table3 {
-    border: 1px solid;
-    width: 15%;
-    border: blue 1px solid;
-    position: absolute;
-    top: 180px;
-    left: 580px;   
-    
-    
-  }
-  table.table4 {
-    border: 1px solid;
-    width: 15%;
-    border: blue 1px solid;
-    position: absolute;
-    top: 180px;
-    left: 870px;   
-    
-    
-  }
-  table.table5 {
-    border: 1px solid;
-    width: 15%;
-    border: blue 1px solid;
-    position: absolute;
-    top: 180px;
-    left: 1160px;   
-    
-    
-  }
-  table.table6 {
-    border: 1px solid;
-    width: 15%;
-    border: blue 1px solid;
-    position: absolute;
-    top: 180px;
-    left: 1450px;   
-    
-    
-  }
-  table.table7 {
-    border: 1px solid;
-    width: 15%;
-    border: blue 1px solid;
-    position: absolute;
-    top: 180px;
-    left: 1740px;   
-    
-    
   }
 
+table.table2 {
+  border: 1px solid;
+  width: 13%;
+  border: blue 1px solid;
+  display: inline-block;
+  table-layout: fixed;
+  width: 14%; 
+    
+}
+
+table.table3 {
+  border: 1px solid;
+  width: 13%;
+  border: blue 1px solid;
+  display: inline-block;
+  table-layout: fixed;
+  width: 14%; 
+  top: 180px;
+}
+
+table.table4 {
+  border: 1px solid;
+  width: 13%;
+  border: blue 1px solid;
+  display: inline-block;
+  table-layout: fixed;
+  width: 14%; 
+  top: 180px;
+}
+
+table.table5 {
+  border: 1px solid;
+  width: 13%;
+  border: blue 1px solid;
+  display: inline-block;
+  table-layout: fixed;
+  width: 14%; 
+  top: 180px;
+}
+
+table.table6 {
+  border: 1px solid;
+  width: 13%;
+  border: blue 1px solid;
+  display: inline-block;
+  table-layout: fixed;
+  width: 14%; 
+  top: 180px;
+}
+
+table.table7 {
+  border: 1px solid;
+  width: 13%;
+  border: blue 1px solid;
+  display: inline-block;
+  table-layout: fixed;
+  width: 14%; 
+  top: 180px;
+}
 
   
+table.table8 {
+  border: 1px solid;
+  width: 13%;
+  border: blue 1px solid;
+  display: inline-block;
+  table-layout: fixed;
+  width: 14%; 
+  top: 283px;
+}
 
-  table.table8 {
-    border: 1px solid;
-    width: 15%;
-    border: blue 1px solid;
-    position: absolute;
-    top: 283px;
-    left: 0px;    
-  }
+table.table9 {
+border: 1px solid;
+width: 13%;
+border: blue 1px solid;
+display: inline-block;
+table-layout: fixed;
+width: 14%; 
+top: 283px;
+}
 
- table.table9 {
-    border: 1px solid;
-    width: 15%;
-    border: blue 1px solid;
-    position: absolute;
-    top: 283px;
-    left: 290px;   
-    
-  }
-  table.table10 {
-    border: 1px solid;
-    width: 15%;
-    border: blue 1px solid;
-    position: absolute;
-    top: 283px;
-    left: 580px;   
-    
-    
-  }
-  table.table11 {
-    border: 1px solid;
-    width: 15%;
-    border: blue 1px solid;
-    position: absolute;
-    top: 283px;
-    left: 870px;   
-    
-    
-  }
-  table.table12 {
-    border: 1px solid;
-    width: 15%;
-    border: blue 1px solid;
-    position: absolute;
-    top: 283px;
-    left: 1160px;   
-    
-    
-  }
-  table.table13 {
-    border: 1px solid;
-    width: 15%;
-    border: blue 1px solid;
-    position: absolute;
-    top: 283px;
-    left: 1450px;   
-    
-    
-  }
-  table.table14 {
-    border: 1px solid;
-    width: 15%;
-    border: blue 1px solid;
-    position: absolute;
-    top: 283px;
-    left: 1740px;   
-    
-  }
+table.table10 {
+border: 1px solid;
+width: 13%;
+border: blue 1px solid;
+display: inline-block;
+table-layout: fixed;
+width: 14%; 
+top: 283px;
+}
+
+table.table11 {
+border: 1px solid;
+width: 13%;
+border: blue 1px solid;
+display: inline-block;
+table-layout: fixed;
+width: 14%; 
+top: 283px;
+}
+
+table.table12 {
+border: 1px solid;
+width: 13%;
+border: blue 1px solid;
+display: inline-block;
+table-layout: fixed;
+width: 14%; 
+top: 283px;
+}
+
+table.table13 {
+border: 1px solid;
+width: 13%;
+border: blue 1px solid;
+display: inline-block;
+table-layout: fixed;
+width: 14%; 
+top: 283px;
+}
+
+table.table14 {
+border: 1px solid;
+width: 13%;
+border: blue 1px solid;
+display: inline-block;
+table-layout: fixed;
+width: 14%; 
+top: 283px;
+}
+
+
+
