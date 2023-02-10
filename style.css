@@ -1,7 +1,7 @@
 
 table.table1 {
     border: 1px solid;
-    width: 10%;
+    width: 15%;
     border: blue 1px solid;
     position: absolute;
     top: 180px;
@@ -9,60 +9,60 @@ table.table1 {
   }
   table.table2 {
     border: 1px solid;
-    width: 10%;
+    width: 15%;
     border: blue 1px solid;
     position: absolute;
     top: 180px;
-    left: 200px;   
+    left: 290px;   
     
   }
   table.table3 {
     border: 1px solid;
-    width: 10%;
+    width: 15%;
     border: blue 1px solid;
     position: absolute;
     top: 180px;
-    left: 400px;   
+    left: 580px;   
     
     
   }
   table.table4 {
     border: 1px solid;
-    width: 10%;
+    width: 15%;
     border: blue 1px solid;
     position: absolute;
     top: 180px;
-    left: 600px;   
+    left: 870px;   
     
     
   }
   table.table5 {
     border: 1px solid;
-    width: 10%;
+    width: 15%;
     border: blue 1px solid;
     position: absolute;
     top: 180px;
-    left: 800px;   
+    left: 1160px;   
     
     
   }
   table.table6 {
     border: 1px solid;
-    width: 10%;
+    width: 15%;
     border: blue 1px solid;
     position: absolute;
     top: 180px;
-    left: 1000px;   
+    left: 1450px;   
     
     
   }
   table.table7 {
     border: 1px solid;
-    width: 10%;
+    width: 15%;
     border: blue 1px solid;
     position: absolute;
     top: 180px;
-    left: 1200px;   
+    left: 1740px;   
     
     
   }
@@ -72,66 +72,68 @@ table.table1 {
 
   table.table8 {
     border: 1px solid;
-    width: 10%;
+    width: 15%;
     border: blue 1px solid;
     position: absolute;
     top: 283px;
     left: 0px;    
   }
 
-
-  table.table9 {
+ table.table9 {
     border: 1px solid;
-    width: 10%;
+    width: 15%;
     border: blue 1px solid;
     position: absolute;
     top: 283px;
-    left: 200px;   
+    left: 290px;   
     
   }
   table.table10 {
     border: 1px solid;
-    width: 10%;
+    width: 15%;
     border: blue 1px solid;
     position: absolute;
     top: 283px;
-    left: 400px;   
+    left: 580px;   
     
     
   }
   table.table11 {
     border: 1px solid;
-    width: 10%;
+    width: 15%;
     border: blue 1px solid;
     position: absolute;
     top: 283px;
-    left: 600px;   
+    left: 870px;   
     
     
   }
   table.table12 {
     border: 1px solid;
-    width: 10%;
+    width: 15%;
     border: blue 1px solid;
     position: absolute;
     top: 283px;
-    left: 800px;   
+    left: 1160px;   
     
     
   }
   table.table13 {
     border: 1px solid;
-    width: 10%;
+    width: 15%;
     border: blue 1px solid;
     position: absolute;
     top: 283px;
-    left: 1000px;   
+    left: 1450px;   
+    
+    
   }
   table.table14 {
     border: 1px solid;
-    width: 10%;
+    width: 15%;
     border: blue 1px solid;
     position: absolute;
     top: 283px;
-    left: 1200px;   
+    left: 1740px;   
+    
   }
